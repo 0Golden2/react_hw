@@ -1,0 +1,18 @@
+#main-page {
+  height: 100%;
+  padding: 90px;
+}
+.content-main-page {
+  padding-block-end: 30px;
+  display: block;
+}
+
+.title {
+  margin: 0;
+}
+
+.categories-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 50px;
+}

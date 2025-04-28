@@ -1,0 +1,19 @@
+.tag-select {
+  width: 50%;
+}
+
+#movies-page {
+  padding: 90px;
+}
+
+.movies-list {
+  display: grid;
+  grid-template-columns: 29% 29% 29%;
+  gap: 30px;
+  justify-content: space-between;
+  padding-block: 40px;
+}
+
+.title {
+  margin: 0;
+}

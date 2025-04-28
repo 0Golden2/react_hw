@@ -1,0 +1,30 @@
+.user-page-layout {
+  min-height: 100vh;
+  background: #f5f5f5;
+}
+
+.user-page-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 24px;
+  background: #ffffff;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.user-page-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.user-page-content {
+  padding: 24px;
+}
+
+.user-info-section {
+  margin-bottom: 40px;
+}
+
+.saved-movies-section {
+  margin-top: 40px;
+}
