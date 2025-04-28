@@ -79,7 +79,7 @@ const MoviePage = () => {
           <div className="movie-info-container">
             <Flex></Flex>
             <Descriptions
-              column={3}
+              column={1}
               colon={false}
               title={"О фильме"}
               bordered
