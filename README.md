@@ -5,7 +5,7 @@
 ## Установка и запуск
 
 1. Убедитесь, что у вас установлен Node.js (версия 16 или выше)
-2. Клонируйте репозиторий ([https://github.com/ksunchikk/cinema.git](https://github.com/0Golden2/react_hw.git))
+2. Клонируйте репозиторий https://github.com/0Golden2/react_hw.git
 3. Установите зависимости:
 
 ```bash
